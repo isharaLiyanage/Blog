@@ -1,0 +1,9 @@
+.hero {
+  background: url(../../public/bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(17, 248, 248, 0.699);
+  background-blend-mode: darken;
+  height: calc(100vh - 50px);
+}
